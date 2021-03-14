@@ -18,3 +18,19 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+img.lado{
+    max-width: 120px;
+    max-height: 120px;
+
+}
+img.lados{
+    max-width: 80px;
+    max-height: 80px;
+
+}
+img.lado{
+    float: right;
+}
+img.lados{
+    float: right;
+}
